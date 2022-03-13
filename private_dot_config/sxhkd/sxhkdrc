@@ -1,0 +1,6 @@
+alt + d
+    dmenu_run
+
+XF86Audio{RaiseVolume,LowerVolume,Mute}
+    pamixer{ --increase 5, --decrease 5, --toggle-mute}
+
