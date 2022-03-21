@@ -1,5 +1,6 @@
 #!/bin/bash
 
+flameshot &
 dunst &
 picom &
 sxhkd &
